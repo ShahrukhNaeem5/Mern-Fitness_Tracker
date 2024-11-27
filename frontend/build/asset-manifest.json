@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Mern-Fitness_Tracker/static/css/main.375fdb35.css",
+    "main.js": "/Mern-Fitness_Tracker/static/js/main.4ee3ab79.js",
+    "static/js/239.fcaddd2b.chunk.js": "/Mern-Fitness_Tracker/static/js/239.fcaddd2b.chunk.js",
+    "static/js/213.627943c0.chunk.js": "/Mern-Fitness_Tracker/static/js/213.627943c0.chunk.js",
+    "static/js/732.be0d18e9.chunk.js": "/Mern-Fitness_Tracker/static/js/732.be0d18e9.chunk.js",
+    "static/media/gym.jpg": "/Mern-Fitness_Tracker/static/media/gym.c9faa0f63257e10c74f6.jpg",
+    "static/media/h1_hero.png": "/Mern-Fitness_Tracker/static/media/h1_hero.cf8074ad1ca147e503be.png",
+    "static/media/SignUp.webp": "/Mern-Fitness_Tracker/static/media/SignUp.e5f1442810e140009792.webp",
+    "static/media/SignIn.png": "/Mern-Fitness_Tracker/static/media/SignIn.34efa56e50843ab97080.png",
+    "static/media/about.png": "/Mern-Fitness_Tracker/static/media/about.93e9b751e4c6f3b407fe.png",
+    "static/media/hero2.png": "/Mern-Fitness_Tracker/static/media/hero2.76dd43fe367111a94818.png",
+    "static/media/gallery1.png": "/Mern-Fitness_Tracker/static/media/gallery1.efad1c482dd9c66fd1d3.png",
+    "static/media/gallery2.png": "/Mern-Fitness_Tracker/static/media/gallery2.77c402eb7965fd5de78b.png",
+    "static/media/gallery5.png": "/Mern-Fitness_Tracker/static/media/gallery5.c3b5c89c35b8266f3b71.png",
+    "static/media/gallery4.png": "/Mern-Fitness_Tracker/static/media/gallery4.b33c60de6d911e6338c8.png",
+    "static/media/gallery3.png": "/Mern-Fitness_Tracker/static/media/gallery3.0eb163ff96b0bc431aa4.png",
+    "static/media/blog1.png": "/Mern-Fitness_Tracker/static/media/blog1.fcfe8244d436051e3d3d.png",
+    "static/media/gallery6.png": "/Mern-Fitness_Tracker/static/media/gallery6.a9838891539f3914e40f.png",
+    "static/media/blog2.png": "/Mern-Fitness_Tracker/static/media/blog2.caf5ab76e4bad1479a5c.png",
+    "static/media/team2.png": "/Mern-Fitness_Tracker/static/media/team2.102506444ecc72a752e4.png",
+    "static/media/team3.png": "/Mern-Fitness_Tracker/static/media/team3.0c60e3c5cfd080717258.png",
+    "static/media/team1.png": "/Mern-Fitness_Tracker/static/media/team1.43848ab1f6682e9c274f.png",
+    "static/media/set-nut.jpg": "/Mern-Fitness_Tracker/static/media/set-nut.632cd6bc07e1ae6fcf00.jpg",
+    "static/media/bg-img-2.html": "/Mern-Fitness_Tracker/static/media/bg-img-2.63f42d95c07126457d37.html",
+    "static/media/bg-img-3.html": "/Mern-Fitness_Tracker/static/media/bg-img-3.63f42d95c07126457d37.html",
+    "static/media/bradcam.html": "/Mern-Fitness_Tracker/static/media/bradcam.63f42d95c07126457d37.html",
+    "static/media/bradcam2.html": "/Mern-Fitness_Tracker/static/media/bradcam2.63f42d95c07126457d37.html",
+    "static/media/bradcam3.html": "/Mern-Fitness_Tracker/static/media/bradcam3.63f42d95c07126457d37.html",
+    "static/media/slider-img-1.html": "/Mern-Fitness_Tracker/static/media/slider-img-1.63f42d95c07126457d37.html",
+    "index.html": "/Mern-Fitness_Tracker/index.html",
+    "main.375fdb35.css.map": "/Mern-Fitness_Tracker/static/css/main.375fdb35.css.map",
+    "main.4ee3ab79.js.map": "/Mern-Fitness_Tracker/static/js/main.4ee3ab79.js.map",
+    "239.fcaddd2b.chunk.js.map": "/Mern-Fitness_Tracker/static/js/239.fcaddd2b.chunk.js.map",
+    "213.627943c0.chunk.js.map": "/Mern-Fitness_Tracker/static/js/213.627943c0.chunk.js.map",
+    "732.be0d18e9.chunk.js.map": "/Mern-Fitness_Tracker/static/js/732.be0d18e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375fdb35.css",
+    "static/js/main.4ee3ab79.js"
+  ]
+}
